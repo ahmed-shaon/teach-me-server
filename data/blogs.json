@@ -1,0 +1,38 @@
+[
+    {
+        "id":"01",
+        "question":"what is cors?",
+        "img":"https://miro.medium.com/max/1200/1*fFOeYqrSmQc5WCVqBazQKw.jpeg",
+        "answer":"As you've possibly already come across by now, CORS is an acronym for Cross-Origin Resource Sharing, but what does that actually mean? What is CORS? Well, if we go by the Wikipedia definition, [CORS] is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served, then you'd be forgiven if you were more confused than before you'd read that sentence. Before we get into defining CORS, it's best to know what came before, as it still defines the default behavior and is probably why you're reading this now. This precursor to CORS was called the Same-Origin policy. In short, it dictates that when your browser loads a script (like a button handler, or some async widget) from a particular (sub)domain that the script can only make requests to the (sub)domain that it originated from."
+    },
+    {
+        "id":"02",
+        "question":"Why are you using firebase?",
+        "img":"https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2019/06/firebase11.jpg",
+        "answer":"Firebase Analytics gives you undeniable insight into user behavior. You can use this knowledge to make informed decisions about how to market your app better and to reach out to the audiences that you want to target. The unique features it offers also allows you to analyze the performance of your campaigns across organic and paid channels to understand which methods are most effective in regards to the specific users that you want to reach."
+    },
+    {
+        "id":"03",
+        "question":"What other options do you have to implement authentication?",
+        "img":"https://securityintelligence.com/wp-content/uploads/2018/10/si-advanced-authentication-feature.jpg",
+        "answer":"Multi-factor authentication, Certificate-based authentication, Biometric authentication, Token-based authentication"
+    },
+    {
+        "id":"04",
+        "question":"How does the private route work?",
+        "img":"https://i.ytimg.com/vi/esK8mN38P4A/maxresdefault.jpg",
+        "answer":"Private Routes in React Router (also called Protected Routes) require a user being authorized to visit a route (read: page). So if a user is not authorized for a specific page, they cannot access it. The most common example is authentication in a React application where a user can only access the protected pages when they are authorized (which means in this case being authenticated). Authorization goes beyond authentication though. For example, a user can also have roles and permissions which give a user access to specific areas of the application."
+    },
+    {
+        "id":"05",
+        "question":"What is Node?",
+        "img":"https://tsh.io/wp-content/uploads/2019/05/node-js-injection_.jpg",
+        "answer":"Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications"
+    },
+    {
+        "id":"06",
+        "question":"How does Node work?",
+        "img":"https://kinsta.com/wp-content/uploads/2021/03/Nodejs-Architecture.png",
+        "answer":"Node.js is the JavaScript runtime environment which is based on Google’s V8 Engine i.e. with the help of Node.js we can run the JavaScript outside of the browser. Other things that you may or may not have read about Node.js is that it is single-threaded, based on event-driven architecture, and non-blocking based on the I/O model."
+    }
+]
