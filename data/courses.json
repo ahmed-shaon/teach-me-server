@@ -1,0 +1,141 @@
+[
+    {
+        "id":"01",
+        "name":"React",
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "description":"React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "img":"http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png",
+        "rating":{
+            "number":"4.5",
+            "badge":"excellent"
+        },
+        "uploadDate":"02/02/2022",
+        "courseContent":{
+            "purpose":"React.js is the most popular front-end JavaScript library for building Web applications. React.js or Reactjs or simply React are different ways to represent React.js. Most fortune 500 companies use Reactjs  In this article, we will learn what React.js (or simply React or Reactjs) is and why we should use Reactjs instead of other JavaScript frameworks like Angular. ",
+            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
+            "learningContent":["ReactDOM","Introducing JSX","Components and Props","State and Lifecycle","Handling Events","Conditional Rendering"],
+            "premiumContent":{
+                "img":"https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+                "moreContent":["Accessibility","Code-Splitting","Context","Hook"],
+                "outcome":"After completed this course you will become a junior react developer.",
+                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
+            }
+        }
+        
+    },
+    {
+        "id":"02",
+        "name":"Phython",
+        "title": "Python for Beginners - Learn Programming from scratch",
+        "description":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "img":"https://www.bleepstatic.com/content/hl-images/2022/05/02/python-blue-header.jpg",
+        "rating":{
+            "number":"4",
+            "badge":"best"
+        },
+        "uploadDate":"04/03/2022",
+        "courseContent":{
+            "purpose":"You might have heard of Python and know that it’s the most popular programming language today. Everyone’s using it, from web developers to data scientists, and increasingly, even ordinary folk. We’re talking individuals, small businesses, even school kids who are learning it.If you’re interested in automating repetitive and time-consuming tasks, making data-based decisions to get an edge over your competitors, or simply learning a highly lucrative skill (a Python developer can earn a six-figure salary) — then yes because all these things are possible with Python.",
+            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
+            "learningContent":["Variable","Data Type","Array","Loop","Class","Object","Function"],
+            "premiumContent":{
+                "img":"https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct-v2/What-is-Python.jpg",
+                "moreContent":["NumPy","Pandas","Tuples","List"],
+                "outcome":"Basics of python and clear understandin of object oriented programming. Some advanced topics related to python",
+                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
+            }
+        }
+    },
+    {
+        "id":"03",
+        "name":"JavaScript",
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "description":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "img":"https://user-images.githubusercontent.com/65357821/82758846-0394c180-9e0f-11ea-8b02-51f885eff3f5.png",
+        "rating":{
+            "number":"4.5",
+            "badge":"excellent"
+        },
+        "uploadDate":"04/06/2022",
+        "courseContent":{
+            "purpose":"Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites. Client-side languages are those whose action takes place on the user's computer, rather than on the server. JavaScript is versatile enough to be used for a variety of different applications, like software, hardware controls, and servers. JavaScript is most known for being a web-based language, because it's native to the web browser. The web browser can naturally understand the language, like how a native English speaker can naturally understand English.",
+            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
+            "learningContent":["Variable","Data Type","Array","Loop","Class","Object","Function"],
+            "premiumContent":{
+                "img":"https://img.besthqwallpapers.com/Uploads/15-3-2020/124725/javascript-metal-logo-grunge-programming-language-signs-blue-metal-background-javascript.jpg",
+                "moreContent":["JS Html Dom","JS Browser BOM","JS Web APIs"],
+                "outcome":"Basics of javascript and how to develop web by javascript. And some advanced tips and trick on js.",
+                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
+            }
+        }
+    },
+    {
+        "id":"04",
+        "name":"Java",
+        "title": "Java Programming for Complete Beginners",
+        "description":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "img":"https://techhubsolutions.in/wp-content/uploads/2021/10/java-training.jpg",
+        "rating":{
+            "number":"3.5",
+            "badge":"good"
+        },
+        "uploadDate":"07/03/2022",
+        "courseContent":{
+            "purpose":"Java is the most popular, widely used object-oriented programming language. The security feature of Java makes it popular and widely used. It used by many Java enthusiasts for different purposes. By using Java, we can develop a variety of applications such as enterprise applications, network applications, desktop applications, web applications, games, android app, and many more.",
+            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
+            "learningContent":["Variable","Data Type","Array","Conditon","Loop","Class","Object","Function"],
+            "premiumContent":{
+                "img":"https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg?auto=webp&quality=85,70",
+                "moreContent":["Method Overloading","Method Overriding","Thread","Super Keyword","Abstract class"],
+                "outcome":"In this course you will what and why java. And clear view of java basics and some advanced tips.",
+                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
+            }
+        }
+    },
+    {
+        "id":"05",
+        "name":"Angular JS",
+        "title": "Complete Angular Developer in 2022: Zero to Mastery",
+        "description":"Angular is a TypeScript-based free and open-source web application framework lead by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+        "img":"https://uploads.toptal.io/blog/image/125413/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.png",
+        "rating":{
+            "number":"4",
+            "badge":"great"
+        },
+        "uploadDate":"07/06/2022",
+        "courseContent":{
+            "purpose":"If you’re interested in building digital products, then it’s likely that you have heard of Angular. It’s one of the most popular frontend frameworks used today. Companies like Google, PayPal, and Forbes, to name a few, all use it for their frontend web development. But what exactly does this mean? And why, or when, should we be using it instead of other frontend technology? Let us break down everything there is to know about Angular to help you understand if it’s the right choice for your next project. ",
+            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
+            "learningContent":["Expression","Module","Directives","Model","Data Binding","Controllers","Scope"],
+            "premiumContent":{
+                "img":"https://svitla.com/uploads_converted/0/526-angular.webp?1511791510",
+                "moreContent":["DOM","Event","API","Routing"],
+                "outcome":"Basics of angular js and building a web app. Some special topics about angular js.",
+                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
+            }
+        }
+    },
+    {
+        "id":"06",
+        "name":"Mongo DB",
+        "title": "Complete MongoDB Administration Guide",
+        "description":"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.",
+        "img":"https://community-cdn-digitalocean-com.global.ssl.fastly.net/Y6CTsYdHM2L7rcnrUqK8ZgVq",
+        "rating":{
+            "number":"4.5",
+            "badge":"excellent"
+        },
+        "uploadDate":"07/09/2021",
+        "courseContent":{
+            "purpose":"MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents. This format directly maps to native objects in most modern programming languages, making it a natural choice for developers, as they don’t need to think about normalizing data. MongoDB can also handle high volume and can scale both vertically or horizontally to accommodate large data loads. MongoDB was built for people building internet and business applications who need to evolve quickly and scale elegantly. Companies and development teams of all sizes use MongoDB for a wide variety of reasons.",
+            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
+            "learningContent":["Qurey API","Create Database","Create Collection","Insert","Update","Delete"],
+            "premiumContent":{
+                "img":"https://vercel.com/_next/image?url=https%3A%2F%2Fvercel.com%2Fapi%2Fv1%2Fintegrations%2Fassets%2Foac_jnzmjqM10gllKmSrG0SGrHOH%2Fimages%2F259ba1454fa8d3f6e487c395119bcdc2ba2f471c.png&w=3840&q=75",
+                "moreContent":["Aggregation","Validation","Data API"],
+                "outcome":"About server side query language. Create a database and insert data into it. Also be able to update and delete.",
+                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
+            }
+        }
+    }
+]
