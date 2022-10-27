@@ -137,28 +137,5 @@
                 "tips":"Do some project and explore more and more. To get update new react feature visit react official."
             }
         }
-    },
-    {
-        "id":"07",
-        "name":"Mongo DB",
-        "title": "Complete MongoDB Administration Guide",
-        "description":"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.",
-        "img":"https://community-cdn-digitalocean-com.global.ssl.fastly.net/Y6CTsYdHM2L7rcnrUqK8ZgVq",
-        "rating":{
-            "number":"4.5",
-            "badge":"excellent"
-        },
-        "uploadDate":"07/09/2021",
-        "courseContent":{
-            "purpose":"MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents. This format directly maps to native objects in most modern programming languages, making it a natural choice for developers, as they don’t need to think about normalizing data. MongoDB can also handle high volume and can scale both vertically or horizontally to accommodate large data loads. MongoDB was built for people building internet and business applications who need to evolve quickly and scale elegantly. Companies and development teams of all sizes use MongoDB for a wide variety of reasons.",
-            "guide":"Try to start from the bascis. It will give more understanding on learing process. To become a master keep us and also you can get our premium servic.",
-            "learningContent":["Qurey API","Create Database","Create Collection","Insert","Update","Delete"],
-            "premiumContent":{
-                "img":"https://vercel.com/_next/image?url=https%3A%2F%2Fvercel.com%2Fapi%2Fv1%2Fintegrations%2Fassets%2Foac_jnzmjqM10gllKmSrG0SGrHOH%2Fimages%2F259ba1454fa8d3f6e487c395119bcdc2ba2f471c.png&w=3840&q=75",
-                "moreContent":["Aggregation","Validation","Data API"],
-                "outcome":"About server side query language. Create a database and insert data into it. Also be able to update and delete.",
-                "tips":"Do some project and explore more and more. To get update new react feature visit react official."
-            }
-        }
     }
 ]
